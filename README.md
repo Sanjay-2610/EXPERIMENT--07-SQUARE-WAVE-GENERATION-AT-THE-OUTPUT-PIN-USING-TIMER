@@ -218,9 +218,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ### For 50% Pulse
-<img src="https://github.com/Sanjay-2610/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/91368803/4976b47e-f75d-4686-b917-8d6e089927fa" width=450 height=450>
+<img src="https://github.com/Sanjay-2610/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/91368803/4976b47e-f75d-4686-b917-8d6e089927fa" width=600 height=450>
 
 ### For 60% Pulse
+<img src="https://github.com/Sanjay-2610/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/91368803/8fa5421a-a642-412d-ad5f-f088a0df8ff8" width=600 height=450>
+
+### For 70% Pulse
 
   
  ## CIRCUIT DIAGRAM : 
