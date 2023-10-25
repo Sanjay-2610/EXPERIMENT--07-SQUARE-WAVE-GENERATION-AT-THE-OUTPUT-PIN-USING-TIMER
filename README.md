@@ -197,19 +197,19 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ##for 50% pulse :
-![image](https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/32612fa1-ceb4-40dd-893c-e86404ac8437)
+<img src='https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/32612fa1-ceb4-40dd-893c-e86404ac8437' width=450 height=450>
 
 ##for 60% pulse  :
-![image](https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/a748720e-3005-4d42-bf4e-331dbae6e4e2)
+<img src='https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/a748720e-3005-4d42-bf4e-331dbae6e4e2' width=450 height=450>
 
 ## for 70% pulse :
 
-![image](https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/b32479f5-2ff8-4da3-b742-8cc264ac6af8)
+<img src='https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/b32479f5-2ff8-4da3-b742-8cc264ac6af8' width=450 height=450>
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/d448c8f2-c4ca-416d-b339-6bc21ab3f97e)
+ <img src='https://github.com/anbuselvamA/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559871/d448c8f2-c4ca-416d-b339-6bc21ab3f97e' width=450 height=450>
 
  
 
